@@ -1,0 +1,70 @@
+The licensing for this module is interesting -- the documentation of the
+module states that the license is Perl (aka GPL or Artistic), whereas the
+files have LGPL headers and the tarball includes the text of the LGPL itself.
+
+Given the author's response, my assessment is that this software is triple
+licensed:  It may be used under the terms of the GPL, LGPL, or Artistic
+license, at your option.
+
+From: Ryan Eatmon <reatmon@jabber.org>  
+To: Chris Weyl <cweyl@alumni.drew.edu>
+Date: May 22, 2006 6:03 PM
+Subject: Re: Net::XMPP license question
+
+Whatever.  I don't actually care one way or the other.  Go right ahead.
+
+Chris Weyl wrote:
+> Sorry to keep on bugging you, but would it be OK for me to strip out
+> the LGPL licensing statements?
+>
+> Or is this software triple licensed?  e.g. Perl (GPL or Artistic), LGPL?
+>
+> Thanks :)
+>                                -Chris
+>
+> On 5/15/06, Chris Weyl <cweyl@alumni.drew.edu> wrote:
+>> If this code isn't meant to also be licensed under the LGPL, would it
+>> be ok with you for me to patch the LGPL statements out for the version
+>> released under fedora extras?
+>>
+>>                            -Chris
+>>
+>> On 5/14/06, Ryan Eatmon <reatmon@jabber.org> wrote:
+>> >
+>> > Yep.
+>> >
+>> >
+>> > Chris Weyl wrote:
+>> > > Hey Ryan--
+>> > >
+>> > > Quick question.  I'm in the middle of packaging up Net::XMPP (and for
+>> > > that matter, XML::Stream and Net::Jabber) for fedora extras, and it
+>> > > was pointed out to me that while Net/XMPP.pm states "COPYRIGHT: This
+>> > > module is free software, you can redistribute it and/or modify it
+>> > > under the same terms as Perl itself", the actual archive includes a
+>> > > LICENSE.LGPL.
+>> > >
+>> > > Are all three of these modules under "the same terms as Perl itself"?
+>> > >
+>> > > Thanks:)
+>> > >                               -Chris
+>> >
+>> >
+>> > --
+>> > Ryan Eatmon
+>> > reatmon@jabber.org
+>> >
+>>
+>>
+>> --
+>> Chris Weyl
+>> Ex astris, scientia
+>>
+>
+>
+
+
+--
+Ryan Eatmon
+reatmon@jabber.org
+

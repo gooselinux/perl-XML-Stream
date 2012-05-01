@@ -1,0 +1,11 @@
+--- t/tcpip2ssl.t.orig	2006-05-12 09:42:01.727128761 -0700
++++ t/tcpip2ssl.t	2006-05-12 09:42:33.223423261 -0700
+@@ -15,7 +15,7 @@
+     SKIP:
+     {
+ 
+-        my $status = $stream->Connect(hostname=>"obelisk.net",
++        my $status = $stream->Connect(hostname=>"talk.google.com",
+                                       port=>5223,
+                                       namespace=>"jabber:client",
+                                       connectiontype=>"tcpip",
